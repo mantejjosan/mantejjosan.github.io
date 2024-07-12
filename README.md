@@ -12,7 +12,7 @@
 
 ## Subjects and Score Card
 
-``` **10th**
+ **10th**
 
 | Subject   | Total Marks | Marks Obtained |
 |-----------|-------------|----------------|
@@ -22,10 +22,10 @@
 | Chemistry | 100         | 90             |
 | Math      | 100         | 90             |
 | Punjabi   | 100         | 90             |
-```
-*POV: I don't have access to my marksheet now*
 
-```**12th**
+*```POV: I don't have access to my marksheet now```*
+
+**12th**
 
 | Subject   | Total Marks | Marks Obtained |
 |-----------|-------------|----------------|
@@ -35,7 +35,7 @@
 | Chemistry | 100         | 89             |
 | Math      | 100         | 83             |
 | SUPW      | Grade       | A              |
-```
+
 # Web Development 
 
 - HTML5
