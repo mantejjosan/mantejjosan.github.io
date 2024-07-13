@@ -25,6 +25,9 @@
 | [Sacred Heart School, Moga](http://www.shsmoga.com) | 12th | 2023 |
 | [GNDEC](http://www.gndec.ac.in) | B.Tech CSE | 2024 |
 
+# Blogs
+GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-experience/)
+
 ## Subjects and Score Card
 
  **10th**
