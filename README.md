@@ -1,6 +1,21 @@
-# Portfolio : Mantej Singh Josan
+# Portfolio : [Mantej Singh Josan](https://github.com/mantejjosan)
 
 ![flower](Images/20230813_150342.jpg)
+
+# Tech Stack
+
+- HTML5
+- CSS
+- Javascript
+  - Gsap 
+  - Locomotive.js
+- C 
+- Java
+
+# Projects
+- [Snake Game Using Javascript](https://mantejjosan.github.io/snake-game/game-intro)
+- *Further projects coming Soon...*
+
 
 # Formal Education
 
@@ -36,19 +51,8 @@
 | Math      | 100         | 83             |
 | SUPW      | Grade       | A              |
 
-# Web Development 
-
-- HTML5
-- CSS
-- Javascript
-  - Gsap 
-  - Locomotive.js
-# Programming languages
-
-- C 
-- Java
 
 # Contact Details
 
-- email: mantej416@gmail.com
-- GitHub: [github.com/mantejjosan](https://github.com/mantejjosan)
+- Email: [mantej416@gmail.com](mailto:mantej416@gmail.com)
+- Github: [mantejjosan](https://github.com/mantejjosan)
