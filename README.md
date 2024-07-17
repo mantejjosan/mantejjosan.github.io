@@ -1,14 +1,13 @@
 # Portfolio : [Mantej Singh Josan](https://github.com/mantejjosan)
 
-![flower](Images/20230813_150342.jpg)
+![flower](Images/116100820.jpeg)
 
 # Tech Stack
 
 - HTML5
 - CSS
 - Javascript
-  - Gsap 
-  - Locomotive.js
+- python
 - C 
 - Java
 
@@ -23,9 +22,11 @@ GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-expe
 
 | Institution | Course | Year |
 |-------------|--------|------|
-| [Sacred Heart School, Moga](http://www.shsmoga.com) | 10th | 2021 |
-| [Sacred Heart School, Moga](http://www.shsmoga.com) | 12th | 2023 |
 | [GNDEC](http://www.gndec.ac.in) | B.Tech CSE | 2024 |
+| [Sacred Heart School, Moga](http://www.shsmoga.com) | 12th | 2023 |
+| [Sacred Heart School, Moga](http://www.shsmoga.com) | 10th | 2021 |
+
+
 
 
 ## Subjects and Score Card
@@ -57,5 +58,6 @@ GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-expe
 
 # Contact Details
 
-- Email: [mantej416@gmail.com](mailto:mantej416@gmail.com)
+- Email: [mantejjosan@gmail.com](mailto:mantej416@gmail.com)
 - Github: [mantejjosan](https://github.com/mantejjosan)
+- LinkedIn: [mantejjosan](https://www.linkedin.com/in/mantej-singh-josan-048661275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
