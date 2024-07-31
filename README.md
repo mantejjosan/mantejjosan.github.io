@@ -1,4 +1,4 @@
-# Portfolio : [Mantej Singh Josan](https://github.com/mantejjosan)
+hi# Portfolio : [Mantej Singh Josan](https://github.com/mantejjosan)
 
 ![flower](Images/116100820.jpeg)
 
@@ -22,7 +22,7 @@ GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-expe
 # Certifications
 - Excel for Beginners by Great Learning
 - 
-![excel certificate](Images/Mantej Singh Josan-1.png)
+![excel certificate](Images/MSJ.png)
 
 
 # Formal Education
