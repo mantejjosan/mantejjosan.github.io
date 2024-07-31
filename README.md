@@ -18,6 +18,12 @@
 # Blogs
 GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-experience/)
 
+
+# Certifications
+- Excel for Beginners by Great Learning
+![excel certificate](Images/Mantej Singh Josan-1.png)
+
+
 # Formal Education
 
 | Institution | Course | Year |
