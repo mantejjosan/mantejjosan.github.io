@@ -21,7 +21,7 @@ GNDEC blog: [my experience at gndec](https://mantejjosan.github.io/my-gndec-expe
 
 # Certifications
 - Excel for Beginners by Great Learning
-- 
+
 ![excel certificate](Images/MSJ.png)
 
 
